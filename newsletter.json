@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+    "date": "26 Oct 2026"
+  },
+  {
+    "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+    "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+    "summary": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
+    "date": "26 Oct 2026"
+  },
+  {
+    "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+    "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+    "summary": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+    "date": "25 Oct 2026"
+  },
+  {
+    "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+    "summary": "Community Wisdom 303",
+    "date": "24 Oct 2026"
+  },
+  {
+    "title": "Claude Duet is beautiful. I still forgot to use it",
+    "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+    "summary": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+    "date": "21 Oct 2026"
+  },
+  {
+    "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "date": "19 Oct 2026"
+  },
+  {
+    "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+    "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+    "summary": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+    "date": "19 Oct 2026"
+  },
+  {
+    "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+    "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+    "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+    "date": "18 Oct 2026"
+  }
+]
