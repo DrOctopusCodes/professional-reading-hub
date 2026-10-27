@@ -1,0 +1,47 @@
+name: Update newsletter feed
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch Lenny's Newsletter RSS
+        run: |
+          python - <<'PY'
+          import urllib.request, xml.etree.ElementTree as ET, json, re, html
+          from email.utils import parsedate_to_datetime
+          url = "https://www.lennysnewsletter.com/feed"
+          req = urllib.request.Request(url, headers={"User-Agent":"ProfessionalReadingHub/1.0"})
+          data = urllib.request.urlopen(req, timeout=30).read()
+          root = ET.fromstring(data)
+          out=[]
+          for item in root.findall(".//item")[:8]:
+              def txt(tag):
+                  x=item.find(tag)
+                  return "" if x is None or x.text is None else x.text.strip()
+              title=html.unescape(txt("title"))
+              link=txt("link")
+              raw=txt("description")
+              clean=re.sub(r"<[^>]+>"," ",raw)
+              clean=re.sub(r"\s+"," ",html.unescape(clean)).strip()
+              pub=txt("pubDate")
+              try: date=parsedate_to_datetime(pub).strftime("%d %b %Y")
+              except: date=pub
+              out.append({"title":title,"url":link,"summary":clean[:500],"date":date})
+          open("newsletter.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsletter.json
+          git diff --cached --quiet || git commit -m "Update newsletter feed"
+          git push
