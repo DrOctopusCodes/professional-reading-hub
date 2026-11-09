@@ -1,5 +1,23 @@
 [
   {
+    "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+    "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+    "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+    "date": "09 Nov 2026"
+  },
+  {
+    "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "date": "09 Nov 2026"
+  },
+  {
+    "title": "How this founder built a better Duolingo with Codex | William Imoh",
+    "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+    "summary": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
+    "date": "09 Nov 2026"
+  },
+  {
     "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
     "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
     "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
@@ -28,23 +46,5 @@
     "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
     "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
     "date": "01 Nov 2026"
-  },
-  {
-    "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-    "summary": "Community Wisdom 304",
-    "date": "31 Oct 2026"
-  },
-  {
-    "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-    "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-    "summary": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
-    "date": "28 Oct 2026"
-  },
-  {
-    "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-    "date": "26 Oct 2026"
   }
 ]
