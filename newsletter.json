@@ -1,5 +1,11 @@
 [
   {
+    "title": "State of the tech job market: late 2026",
+    "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+    "summary": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
+    "date": "10 Nov 2026"
+  },
+  {
     "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
     "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
     "summary": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
@@ -40,11 +46,5 @@
     "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
     "summary": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
     "date": "02 Nov 2026"
-  },
-  {
-    "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-    "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-    "summary": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
-    "date": "01 Nov 2026"
   }
 ]
