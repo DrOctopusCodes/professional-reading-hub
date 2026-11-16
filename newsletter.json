@@ -1,5 +1,17 @@
 [
   {
+    "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "date": "16 Nov 2026"
+  },
+  {
+    "title": "How I fight token fraud as a solo founder",
+    "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+    "summary": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
+    "date": "16 Nov 2026"
+  },
+  {
     "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
     "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
     "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
@@ -34,17 +46,5 @@
     "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
     "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
     "date": "09 Nov 2026"
-  },
-  {
-    "title": "How this founder built a better Duolingo with Codex | William Imoh",
-    "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-    "summary": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
-    "date": "09 Nov 2026"
-  },
-  {
-    "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-    "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-    "summary": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-    "date": "08 Nov 2026"
   }
 ]
